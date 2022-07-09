@@ -1,5 +1,5 @@
 # leetcode_3Sum_Closest
-+ 3개의input값을 더한값이 target값이랑 비슷할경우 리턴
++ 3개의 input값을 더한값이 target값이랑 비슷할경우 리턴
 + 跟前一題很像，但是判斷接近target的值
 
 -----
